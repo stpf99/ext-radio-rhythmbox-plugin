@@ -1,0 +1,9 @@
+[Plugin]
+Module=polskieradio
+Loader=python3
+Name=PolskieRadio
+Description=Stream music from PolskieRadio — browse and play tracks directly in Rhythmbox.
+Authors=PolskieRadio Plugin
+Copyright=Copyright © 2026
+Website=https://PolskieRadio
+Version=1.0
