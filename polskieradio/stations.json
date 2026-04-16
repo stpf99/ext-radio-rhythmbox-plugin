@@ -1,0 +1,42 @@
+{
+  "Polskie Radio Jedynka": {
+    "icon": "radio",
+    "streams": [
+      {"name": "MP3 96k (HTTP)", "url": "http://mp3.polskieradio.pl:8900"},
+      {"name": "AAC+ 48k (HTTP)", "url": "http://stream3.polskieradio.pl:8950"}
+    ]
+  },
+  "Polskie Radio Dwójka": {
+    "icon": "radio",
+    "streams": [
+      {"name": "MP3 96k (HTTP)", "url": "http://mp3.polskieradio.pl:8902"},
+      {"name": "AAC+ 96k (HTTP)", "url": "http://stream3.polskieradio.pl:8952"}
+
+    ]
+  },
+  "Polskie Radio Trójka": {
+    "icon": "radio",
+    "streams": [
+      {"name": "MP3 96k (HTTP)", "url": "http://mp3.polskieradio.pl:8904"},
+      {"name": "AAC+ 48k (HTTP)", "url": "http://stream3.polskieradio.pl:8954"}
+
+    ]
+  },
+  "Polskie Radio Czwórka": {
+    "icon": "radio",
+    "streams": [
+      {"name": "MP3 96k (HTTP)", "url": "http://mp3.polskieradio.pl:8906"},
+      {"name": "AAC+ 48k (HTTP)", "url": "http://stream3.polskieradio.pl:8956"}
+
+    ]
+  },
+  "Polskie Radio 24": {
+    "icon": "radio",
+    "streams": [
+      {"name": "MP3 96k (HTTP)", "url": "http://mp3.polskieradio.pl:8908"},
+      {"name": "MP3 96k Alt (HTTP)", "url": "http://mp3.polskieradio.pl:8912"},
+      {"name": "AAC+ 48k (HTTP)", "url": "http://stream3.polskieradio.pl:8958"},
+      {"name": "AAC+ 48k Alt (HTTP)", "url": "http://stream3.polskieradio.pl:8962"}
+    ]
+  }
+}
